@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table-img img{
+  margin-bottom: 80%;
+}
+.table-box{
+    margin: 50px auto;
+}
+.table-row{
+    display: table;
+    width: 60%;
+    margin: 10px auto;
+    font-family: sans-serif;
+    background: transparent;
+    padding: 12px 0;
+    color: white;
+    font-size: 13px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+    border-radius: 70px;
+    background-color:#9c88ff;
+}
+.table-cell{
+    display: table-cell;
+    width: 30px;
+    text-align: center;
+    padding: 4px 0;
+    border-right: 1px solid #ff793f;
+    vertical-align: middile;
+    border-radius: 5px;
+}
